@@ -80,7 +80,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <connections>
-                        <outlet property="trayArrow" destination="Edf-2T-pRR" id="3ER-bU-APD"/>
+                        <outlet property="trayArrow" destination="Chm-Ct-S2S" id="CKn-D8-vxb"/>
                         <outlet property="trayImageView" destination="Edf-2T-pRR" id="rJD-E5-Uwm"/>
                     </connections>
                 </viewController>

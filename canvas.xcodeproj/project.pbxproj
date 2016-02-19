@@ -15,6 +15,7 @@
 		7F527F321C756D870053D55E /* canvasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F527F311C756D870053D55E /* canvasTests.swift */; };
 		7F527F3D1C756D870053D55E /* canvasUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F527F3C1C756D870053D55E /* canvasUITests.swift */; };
 		7F527F4B1C756DDE0053D55E /* CanvasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F527F4A1C756DDE0053D55E /* CanvasViewController.swift */; };
+		7F527F4D1C759E570053D55E /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F527F4C1C759E570053D55E /* Common.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		7F527F3C1C756D870053D55E /* canvasUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = canvasUITests.swift; sourceTree = "<group>"; };
 		7F527F3E1C756D870053D55E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7F527F4A1C756DDE0053D55E /* CanvasViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CanvasViewController.swift; sourceTree = "<group>"; };
+		7F527F4C1C759E570053D55E /* Common.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		7F527F1B1C756D870053D55E /* canvas */ = {
 			isa = PBXGroup;
 			children = (
+				7F527F4C1C759E570053D55E /* Common.swift */,
 				7F527F1C1C756D870053D55E /* AppDelegate.swift */,
 				7F527F1E1C756D870053D55E /* ViewController.swift */,
 				7F527F201C756D870053D55E /* Main.storyboard */,
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7F527F4D1C759E570053D55E /* Common.swift in Sources */,
 				7F527F1F1C756D870053D55E /* ViewController.swift in Sources */,
 				7F527F4B1C756DDE0053D55E /* CanvasViewController.swift in Sources */,
 				7F527F1D1C756D870053D55E /* AppDelegate.swift in Sources */,
